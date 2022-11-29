@@ -1,0 +1,9 @@
+[{
+    "id": "Josh",
+    "password": "asd",
+    "type": "student"
+},{
+    "id": "Tom",
+    "password": "asd",
+    "type": "mentor"
+}]

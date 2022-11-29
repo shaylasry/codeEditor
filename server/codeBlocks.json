@@ -1,0 +1,16 @@
+[{
+  "id": "Print Task",
+  "code": "print hello world",
+  "solution": "console.log('hello world')"
+},
+  {
+    "id": "Print1 Task",
+    "code": "print hello world1",
+    "solution": "console.log('hello world1')"
+  },
+  {
+    "id": "Print2 Task",
+    "code": "print hello world2",
+    "solution": "console.log('hello world2')"
+  }
+]
